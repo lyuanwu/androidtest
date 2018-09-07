@@ -1,0 +1,8 @@
+<AbsoluteLayout xmlns:anroid="http://schemas.android.com/apk/res/android"
+    anroid:layout_width="fill_parent"
+    anroid:layout_height="wrap_content"
+    anroid:layout_x="100px"
+    anroid:layout_y="100px"
+    anroid:background="#00ff00"
+    anroid:text="hello"
+    />
